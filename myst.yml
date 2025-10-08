@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: bf2a038a-441a-440c-809b-22d06a5e7b99
+  title: Open Humanities F25 Test Site
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/mpjonesiv/Hello-World
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: readme.md 
+    - file: glossary.md
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
